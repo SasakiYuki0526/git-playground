@@ -20,7 +20,7 @@ hi `hi`
 hi hi
 ```
 
-```python=
+```python
 def hello()
     print('hi')
 ```
